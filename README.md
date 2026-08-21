@@ -53,15 +53,32 @@ So I keep building — not because it is always easy, but because technology and
 - Building a platform to connect interesting ideas with the right people
 - Learning, testing, and shipping something new whenever possible
 
-## 🌱 Listen while you work
+<div align="center">
 
-Visit my **[SoundCloud](https://soundcloud.com/iliwx)** and check out the playlists I’ve created.
+## 🎧 Soundtrack for your work
 
-Put one on while coding, designing, studying, or working. They were made to be enjoyed in the background while getting things done.
+### 🎶 Put on a playlist. Open your editor. Let the ideas flow.
+
+I’ve created playlists on **[SoundCloud](https://soundcloud.com/iliwx)** for coding, designing, studying, and working.
+
+<a href="https://soundcloud.com/iliwx">
+  <img src="https://img.shields.io/badge/▶%20Listen%20to%20my%20playlists-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Listen to my SoundCloud playlists">
+</a>
+
+<br><br>
+
+<sub>
+Best enjoyed while coding, creating, or pretending to be productive. 🎵
+</sub>
+
+</div>
 
 <div align="center">
 
-[![Telegram Channel](https://img.icons8.com/color/32/telegram-app.png)](https://t.me/noeron) [My Telegram Channel](https://t.me/noeron) | [![Telegram DM](https://img.icons8.com/color/32/telegram-app.png)](https://t.me/x02317) [Telegram DM](https://t.me/x02317) | [![Instagram](https://img.icons8.com/color/32/instagram-new.png)](https://instagram.com/noahrojhalat) [My Instagram](https://instagram.com/noahrojhalat) | [![SoundCloud](https://img.icons8.com/color/32/soundcloud.png)](https://soundcloud.com/iliwx) [My SoundCloud](https://soundcloud.com/iliwx)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/noeron)
+[![Telegram DM](https://img.shields.io/badge/Telegram-DM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/x02317)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noahrojhalat)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Playlists-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/iliwx)
 
 </div>
 
