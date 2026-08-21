@@ -59,9 +59,11 @@ Visit my **[SoundCloud](https://soundcloud.com/iliwx)** and check out the playli
 
 Put one on while coding, designing, studying, or working. They were made to be enjoyed in the background while getting things done.
 
-## 🌐 Find me elsewhere
+<div align="center">
 
-- Telegram: [@noeron](https://t.me/noeron) · [DM](https://t.me/x02317) - Instagram: [@noahrojhalat](https://instagram.com/noahrojhalat) - SoundCloud: [@iliwx](https://soundcloud.com/iliwx)
+[![Telegram Channel](https://img.icons8.com/color/32/telegram-app.png)](https://t.me/noeron) [My Telegram Channel](https://t.me/noeron) | [![Telegram DM](https://img.icons8.com/color/32/telegram-app.png)](https://t.me/x02317) [Telegram DM](https://t.me/x02317) | [![Instagram](https://img.icons8.com/color/32/instagram-new.png)](https://instagram.com/noahrojhalat) [My Instagram](https://instagram.com/noahrojhalat) | [![SoundCloud](https://img.icons8.com/color/32/soundcloud.png)](https://soundcloud.com/iliwx) [My SoundCloud](https://soundcloud.com/iliwx)
+
+</div>
 
 <div align="center">
 
