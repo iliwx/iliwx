@@ -71,6 +71,8 @@ Put one on while coding, designing, studying, or working. They were made to be e
   
 ![Profile visual](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
 
-### Keep exploring. Keep building. Keep farming. 🌱🔥
+### Keep exploring. Keep building. Keep farming.
+
+✨
 
 </div>
