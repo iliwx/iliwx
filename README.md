@@ -61,7 +61,14 @@ Put one on while coding, designing, studying, or working. They were made to be e
 
 ## 🌐 Find me elsewhere
 
-- Telegram: [@noeron](https://t.me/noeron) · [DM](https://t.me/x02317)
+## HTML
+
+<!-- Use div tag for good format and it will show them in one line, without div tag it will be displayed on multiple lines -->
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/telegram" width="64px" />
+<div> 
+  
+  Telegram: [@noeron](https://t.me/noeron) · [DM](https://t.me/x02317)
 - Instagram: [@noahrojhalat](https://instagram.com/noahrojhalat)
 - SoundCloud: [@iliwx](https://soundcloud.com/iliwx)
 
