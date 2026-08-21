@@ -6,11 +6,14 @@
 
 ### Builder of useful agents, strange ideas & a future rural empire 🌱
 
-![Profile animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 </div>
 
-## 👋 The short version
+<div align="center">
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=iliwx&theme=midnight)
+
+</div>
+![Profile animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 I’m **Noah Rojhalat** — a technology enthusiast from Iran who thinks like a programmer, even though I don’t officially speak any programming language.
 
@@ -53,16 +56,6 @@ Visit my **[SoundCloud](https://soundcloud.com/iliwx)** and listen to the playli
 - Telegram: [@noeron](https://t.me/noeron) · [DM](https://t.me/x02317)
 - Instagram: [@noahrojhalat](https://instagram.com/noahrojhalat)
 - SoundCloud: [@iliwx](https://soundcloud.com/iliwx)
-
-## 📊 A little proof of life
-
-<div align="center">
-
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=iliwx&theme=midnight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iliwx&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 <div align="center">
 
