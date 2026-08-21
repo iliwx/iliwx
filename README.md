@@ -4,7 +4,7 @@
 
 # Noah Rojhalat · `iliwx`
 
-### Building AI agents, Bot's, Websites, Branding, and Useful Digital Products ✨
+### Building AI agents, Bot's, Websites, Branding, and Useful Digital Products 🌱
 
 </div>
 
@@ -65,10 +65,10 @@ Put one on while coding, designing, studying, or working. They were made to be e
 - Instagram: [@noahrojhalat](https://instagram.com/noahrojhalat)
 - SoundCloud: [@iliwx](https://soundcloud.com/iliwx)
 
-Thanks for stopping by.
-
 <div align="center">
 
+  Thanks for stopping by.
+  
 ![Profile visual](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
 
 ### Keep exploring. Keep building. Keep farming. 🌱🔥
