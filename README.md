@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=kgnio&theme=midnight)
 <!--
 **iliwx/iliwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
