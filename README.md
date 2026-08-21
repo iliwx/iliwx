@@ -4,7 +4,7 @@
 
 # Noah Rojhalat · `iliwx`
 
-### Builder of useful agents, strange ideas & a future rural empire 🌱
+### Builder of useful agents, strange ideas & a future rural empire ✨
 
 </div>
 
