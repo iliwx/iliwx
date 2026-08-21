@@ -4,7 +4,7 @@
 
 # Noah Rojhalat · `iliwx`
 
-### Builder of useful agents, strange ideas & a future rural empire ✨
+### Building AI agents, Bot's, Websites, Branding, and Useful Digital Products ✨
 
 </div>
 
@@ -16,14 +16,18 @@
 
 ![Profile animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-I’m **Noah Rojhalat** — a technology enthusiast from Iran who thinks like a programmer, even though I don’t officially speak any programming language.
+## 👋 About me
 
-I break down complicated problems, turn ideas into projects, and somehow keep going when the internet, electricity, access, and budgets decide to become the final boss.
+I’m **Noah Rojhalat**, a technology enthusiast and digital builder from Iran.
+
+I may not identify as a traditional programmer, but I approach problems like one: I break complex ideas into smaller parts, find practical solutions, and turn them into real projects.
+
+I spend most of my days working with technology, AI tools, websites, marketing, and new ideas. When the conditions are right, I can work independently across several roles — from planning and design to execution and optimization.
 
 > One person. Ten-plus hours at the desk. A suspicious number of ideas.
 > Sometimes I work like a whole team — mostly because I still don’t have one.
 
-## 🧠 What I do
+## 💻 What I do
 
 - Build practical AI agents and experiment with AI workflows
 - Fine-tune and work with AI models
@@ -32,31 +36,36 @@ I break down complicated problems, turn ideas into projects, and somehow keep go
 - Turn messy ideas into usable digital products
 - Work across technology, business, design, and problem-solving
 
-I have **7+ years of professional experience** and have worked with companies in Iran and Uzbekistan. My toolkit is less about memorizing syntax and more about understanding systems, finding shortcuts, and shipping things that work.
+I have more than **7 years of professional experience** working with technology, websites, branding, marketing, and digital products.
 
-## 🇮🇷 Built under hard-mode conditions
+I have built many WordPress websites, worked with companies in Iran and Uzbekistan, helped businesses improve their brand and marketing, and worked on projects that required learning new tools quickly.
+
+## ⚠️ Built under hard-mode conditions
 
 Technology work in Iran often comes with extra levels: restricted access, expensive tools, unreliable infrastructure, and sometimes months without stable electricity or internet. The pay may be a fraction of the global market, but the curiosity is still full price.
-
-So I keep building — not because it is always easy, but because making things is too much fun to quit.
+So I keep building — not because it is always easy, but because technology and making things is too much fun to quit.
 
 ## 🔥 Current side quests
 
-- Building useful AI agents
-- Exploring fine-tuning and practical model applications
-- Collecting ideas for products that deserve a team
-- Preparing for **Plan 2: a luxurious rural life after retirement** 🌾
-- Trying to build that team… or building a website about it first
+- Creating useful AI agents for real-world tasks
+- Exploring model fine-tuning and practical AI applications
+- Developing ideas for digital products and online businesses
+- Building a platform to connect interesting ideas with the right people
+- Learning, testing, and shipping something new whenever possible
 
-## 🎧 Soundtrack for your visit
+## 🌱 Listen while you work
 
-Visit my **[SoundCloud](https://soundcloud.com/iliwx)** and listen to the playlists I made while you work. Your code, your coffee, and my playlists may get along surprisingly well.
+Visit my **[SoundCloud](https://soundcloud.com/iliwx)** and check out the playlists I’ve created.
+
+Put one on while coding, designing, studying, or working. They were made to be enjoyed in the background while getting things done.
 
 ## 🌐 Find me elsewhere
 
 - Telegram: [@noeron](https://t.me/noeron) · [DM](https://t.me/x02317)
 - Instagram: [@noahrojhalat](https://instagram.com/noahrojhalat)
 - SoundCloud: [@iliwx](https://soundcloud.com/iliwx)
+
+Thanks for stopping by.
 
 <div align="center">
 
