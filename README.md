@@ -46,7 +46,7 @@ So I keep building — not because it is always easy, but because making things 
 
 ## 🎧 Soundtrack for your visit
 
-Please visit my **[SoundCloud](https://soundcloud.com/iliwx)** and listen to the playlists I made while you work. Your code, your coffee, and my playlists may get along surprisingly well.
+Visit my **[SoundCloud](https://soundcloud.com/iliwx)** and listen to the playlists I made while you work. Your code, your coffee, and my playlists may get along surprisingly well.
 
 ## 🌐 Find me elsewhere
 
@@ -63,10 +63,6 @@ Please visit my **[SoundCloud](https://soundcloud.com/iliwx)** and listen to the
 [![GitHub Streak](https://streak-stats.demolab.com?user=iliwx&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-## 🪐 My GitHub galaxy
-
-This profile is also being prepared for **[Galaxy Profile](https://github.com/vinimlo/galaxy-profile)** — a cosmic view of my repositories, stars, constellations, and GitHub activity.
 
 <div align="center">
 
