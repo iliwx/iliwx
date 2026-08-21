@@ -57,7 +57,7 @@ So I keep building — not because it is always easy, but because technology and
 
 ## 🎧 Soundtrack for your work
 
-### 🎶 Put on a playlist. Open your editor. Let the ideas flow.
+### Put on a playlist. Open your editor. Let the ideas flow.
 
 I’ve created playlists on **[SoundCloud](https://soundcloud.com/iliwx)** for coding, designing, studying, and working.
 
@@ -67,9 +67,6 @@ I’ve created playlists on **[SoundCloud](https://soundcloud.com/iliwx)** for c
 
 <br><br>
 
-<sub>
-Best enjoyed while coding, creating, or pretending to be productive. 🎵
-</sub>
 
 </div>
 
